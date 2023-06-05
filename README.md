@@ -13,10 +13,12 @@ Make sure you are using at least Python 3.7.
 Install Ffmpeg.
 
 Linux:
-sudo apt-get install ffmpeg
+
+'sudo apt-get install ffmpeg'
 
 MacOS:
-brew install ffmpeg
+
+'brew install ffmpeg'
 
 Python libraries:
 
