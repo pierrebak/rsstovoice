@@ -4,7 +4,7 @@ By Pierre Bac
 A python script to retrieve  rss feeds and convert them to MP3 based on Gtts by Google. 
 
 
-This script retrieve an rss feed, display it in cli and generates a mp3 file in the same directory.
+This script retrieve an rss feed, display it in the terminal and generates a mp3 file in the same directory.
 
 Needed
 ------
