@@ -1,4 +1,5 @@
-# rsstovoice 1.0
+Rsstovoice.py
+By Pierre Bac
 
 A python script to retrieve  rss feeds and convert them to MP3 based on Gtts by Google. 
 
@@ -38,7 +39,7 @@ Python libraries:
 Running the script 
 ------------------
 
-python 3 rsstovoice.py
+'python 3 rsstovoice.py'
 
 Playing the generated mp3 file
 ------------------------------
@@ -46,7 +47,7 @@ Playing the generated mp3 file
 You'll find the mp3 file generated in the same directory of the script.
 It is called cool.mp3
 
-ffplay cool.mp3
+'ffplay cool.mp3'
 
 (Feel free to add this line at the end of the script if you want to listen to the generated file directly.)
 
