@@ -1,5 +1,5 @@
 Rsstovoice.py
-By Pierre Bac
+By Pierre BaK
 
 A python script to retrieve  rss feeds and convert them to MP3 (based on Gtts by Google). 
 
